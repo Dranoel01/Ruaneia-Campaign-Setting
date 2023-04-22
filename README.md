@@ -1,3 +1,4 @@
 # Roclesia-Campaign-Setting
 
-Test 123
+This Repository is an attempt to create an easy, portable and flexible way to exchange Information about my homebrew TTRPG campaign with my players.
+
